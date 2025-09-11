@@ -1,2 +1,3 @@
 print("aarzoo rawat omg ")
-mk
+
+print("hello world")
